@@ -1,0 +1,13 @@
+Integrantes:Getsemany Guadalupe Reyes de la Cruz
+Christian Benigno Morales Morales
+
+https://github.com/Getsemany/Herbolaria.git
+
+
+-Muestra algunos conceptos utilizados en la lectura
+-Muestra lo que curan algunas plantas
+-Puede consultar qué cosas cura una planta
+-Puede consultar lo que puede curar un dolor
+-Puede consultar conceptos
+-Puede buscar un malestar y consultar con qué curarlo
+
