@@ -65,7 +65,7 @@ cura(agotamieto,valeriana).
 cura(agruras,yerbabuena).
 cura(agruras,manzanilla).
 cura(agruras,jugoDeLimon).
-cura(albuminaria,pinq�ica).
+cura(albuminaria,pinqüica).
 cura(albuminaria,quinaRoja).
 cura(albuminaria,encinoRojo).
 cura(alcoholismo,pimiento).
@@ -79,7 +79,7 @@ concepto(cocimiento,hervirEnAguaPor40Minutos).
 concepto(infusion,hervirElAguaEnUnRecipienteYVaciarEnOtro).
 concepto(maceracion,triturarLaPlantaYSumergirlaEnPocaAgua).
 concepto(jarabe,hervirLaPlantaEnAgua10MinPonerAzucarYAlcohol).
-concepto(tintura,enFrascoSepOneLaPlantaDesmenuzadaYSeLeEchaAlcoholDeCa�a).
+concepto(tintura,enFrascoSepOneLaPlantaDesmenuzadaYSeLeEchaAlcoholDeCaña).
 concepto(jugo,exprimirLasPlantasEnUnTrapoLimpio).
 concepto(horchata,seMuelenLasSemillasAgregandoAgua).
 concepto(afrodisiaca,excitaElApetitoSexual).
@@ -92,7 +92,7 @@ concepto(antipiretica,quitaLaFiebre).
 concepto(antiseptica,mataLosTejisdos).
 concepto(aperitiva,produceApetito).
 concepto(astringente,haceContraerLosTejidos).
-concepto(carminativa,evitaLaFormaci�nDeGases).
+concepto(carminativa,evitaLaFormaciónDeGases).
 concepto(colagoga,ayudaAExpulsarLaBilis).
 concepto(hinojo,seUsaMuchoEnLaCocinaParaAyudarEnLaDigestion).
 concepto(jalapa,purganteNatural).
@@ -100,6 +100,11 @@ concepto(ipecacuana,hierbitaMuyComunEnLosPlantiosDeCafeAyudaALaTos).
 nombreLatin(hinojo,foenicukumNigare).
 nombreLatin(jalapa,iponeaPurga).
 nombreLatin(ipecacuana,polygalaHondurana).
-
+concepto(guaco,seUsaEnPquitesMordedurasYPonzoñasas).
+concepto(guazuma,efectivaEnCasosDeDisenteriaDiarrea).
+concepto(guayacá,seUsaparaLaTosdeTuberculosos).
+nombreLatin(guaco,aristolochiaOdaantisima).
+nombreLatin(guazuma,suazumaUlmifolia).
+nombreLatin(guayacá,guaiacumSanctum).
 
 
