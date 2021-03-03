@@ -114,9 +114,14 @@ concepto(vulneraria,curaLlagasYHeridas).
 concepto(hinojo,seUsaMuchoEnLaCocinaParaAyudarEnLaDigestion).
 concepto(jalapa,purganteNatural).
 concepto(ipecacuana,hierbitaMuyComunEnLosPlantiosDeCafeAyudaALaTos).
+concepto(guaco,seUsaEnPquitesMordedurasYPonzoñasas).
+concepto(guazuma,efectivaEnCasosDeDisenteriaDiarrea).
+concepto(guayacá,seUsaparaLaTosdeTuberculosos).
 nombreLatin(hinojo,foenicukumNigare).
 nombreLatin(jalapa,iponeaPurga).
 nombreLatin(ipecacuana,polygalaHondurana).
-
+nombreLatin(guaco,aristolochiaOdaantisima).
+nombreLatin(guazuma,suazumaUlmifolia).
+nombreLatin(guayacá,guaiacumSanctum).
 
 

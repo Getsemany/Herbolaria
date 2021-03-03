@@ -1,0 +1,10 @@
+Integrantes:Getsemany Guadalupe Reyes de la Cruz
+Christian Benigno Morales Morales
+
+https://github.com/Getsemany/Herbolaria.git
+
+Conclusiones
+Con esta actividad se aprende más acerca de las plantas para así poder trabajar con sus nombres en latin, también
+se aprendió a cómo realizar hechos y reglas en el lenguaje de Prolog. También se vieron algunos malestares y como 
+es que se pueden calmar o quitar. Además, se agregaron conceptos de algunas palabras que son utilizadas durante la 
+lectura del libro.
